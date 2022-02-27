@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine propositions offered to the consideration of the Honourable Houses of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78486</idno>
+            <idno type="STC">Wing C1730</idno>
+            <idno type="STC">Thomason E179_18</idno>
+            <idno type="STC">ESTC R9098</idno>
+            <idno type="EEBO-CITATION">99873467</idno>
+            <idno type="PROQUEST">99873467</idno>
+            <idno type="VID">125943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125943)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E179[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine propositions offered to the consideration of the Honourable Houses of Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxford? :</pubPlace>
+                  <date>Printed ann. Dom. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A royalist satire.</note>
+                  <note>Place of publication conjectured by Wing. Madan (II, 1125, 1125*) says that the Thomason copy seems to be a London edition, even though Thomason says it is an Oxford book.</note>
+                  <note>Annotation on Thomason copy: "Decemb: Oxon".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125943:1" rendition="simple:additions"/>
+            <p>CERTAINE PROPOSITIONS OFFERED TO THE CONSIDERATION OF The Honourable Houſes OF PARLIAMENT.</p>
+            <p>Printed <hi>Ann. Dom.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:125943:2"/>
+            <head>PROPOSITIONS OFFERED TO THE CONSI<g ref="char:EOLhyphen"/>deration of the Honourable Houſes of PARLIAMENT.</head>
+            <opener>
+               <salute>May it pleaſe your Honours,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Eing that your foure notorious Victo<g ref="char:EOLhyphen"/>ries over the Cavaliers (that at <hi>Wor<g ref="char:EOLhyphen"/>cester,</hi> that at <hi>Keinton,</hi> that at <hi>Brainford,</hi> and that lately at <hi>Malborough</hi>) have now as you promiſed, taught the pre<g ref="char:EOLhyphen"/>ſent Age, and will hereafter teach the ſucceeding, what it is to runne into ſo heinous crimes; And whereas things ſtand now ſo, that you need not any longer hire M<hi rend="sup">r</hi> 
+               <hi>Booker</hi> to calculate Path-waies on your ſide; Theſe your great Conqueſts (which will ter<g ref="char:EOLhyphen"/>rifie Hiſtorians from writing them) and theſe your glorious. Felicities (which are even burthenſome to your ſelves) having given you leaſure to hearken to the ſighs and groanes of the people, to whom you promiſed a Through reformation: That you may in ſome part ſatisfie their expectations, the time of good tidings (which the Kings men commonly call <hi>Chriſtmas)</hi> being now at hand, I have thought fit to preſent unto you theſe few enſuing Conſide<g ref="char:EOLhyphen"/>rations, which upon mature advice I preſume you will find to be of much weight with your ſelves, and of much concernment to the Commonwealth.</p>
+            <p n="1">1. That the time of gaming being now come in, you would be pleaſed to take into your ſerious con<g ref="char:EOLhyphen"/>ſideration
+<pb n="3" facs="tcp:125943:2"/>that ſcandalous-Packe of Cards, which hath, upon the Coates, names unfit for Regenerate eares; as <hi>Hercules, Alexander, Julius Caeſar,</hi> and <hi>Hector</hi> of Troy, and ſuch like; and that you would change them into Old Teſtament Names, as the Kings to be <hi>David, Joſiah, Solomon, Hezekiah:</hi> the Queenes, <hi>Sarah, Rachel, Heſter, Suſanna:</hi> and the Knaves laſtly, <hi>Balaac, Achitophel, Tobit,</hi> and <hi>Bel.</hi> It is not without ground conceived, that the Iſrael of God would be well pleaſed now and then to recre<g ref="char:EOLhyphen"/>ate themſelves at New-Cutt, and ſome ſuch other games, if they had Kings and Queenes of the Cir<g ref="char:EOLhyphen"/>cumciſion, and Knaves of the Covenant. Or if ſome men out of an holy diſlike to Antiquity, ſhould deſire to have Moderne Kings and Queenes, and Knaves; that upon the foure Kings you would put the Names of any foure of the five Members, and upon the foure Queenes any foure women be<g ref="char:EOLhyphen"/>longing to them, and upon the foure Knaves, <hi>Cala<g ref="char:EOLhyphen"/>my, Marſhall, Downing,</hi> and <hi>Burges.</hi> For as your ſelves have ſerved us in making men take up Arms againſt the King, and theſe Miniſters have ſerved you in abſolving them that were Captives, of that Oath which the King gave them, not to beare Armes againſt Him; ſo both of you deſerve to have your memories kept freſh in Statues: and how that may be done more conveniently then this way. I ſee not.</p>
+            <p n="2">2. That ſeeing you have a very uſefull gift, and a great Talent in Multiplying things to the advan<g ref="char:EOLhyphen"/>tage of the Common cauſe, and that many eyes ſee more then few, and ſo may do more good to the
+<pb n="4" facs="tcp:125943:3"/>Common-wealth, you would be pleaſed to conſi<g ref="char:EOLhyphen"/>der, if it were not worth the labour to employ ſome skilfull men in the making of two ſorts of Dice. Confiding Dice, and Malignant Dice; the Confiding to be ey'd with Caters, Cinques, and Sices: and the Malignant with nothing but Aces, Deuxes, and Treys; the which Dice are to be ſo ordered, that the Confiding may be ſold to the Confiding, and the Malignant to the Malignant; that ſo wee may make a lawfull and holy game for you. But provided, that for feare wee be ſuſpected of falſe play, it be ordred that theſe Dice be thrown out of Parliament Boxes.</p>
+            <p n="3">3. That during all this good tide, there be no Hazard allowed, but with an eye upon the Com<g ref="char:EOLhyphen"/>mon-wealth: and that inſtead of the Night that is uſually deſtin'd to the profit of the Butler, there be a Night deſtin'd to the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment, and that the Burgeſſes of every towne (who through the thinneſſe of affaires may convenient<g ref="char:EOLhyphen"/>ly now be diſpenſed with) goe downe into their ſe<g ref="char:EOLhyphen"/>verall Countries to looke to the Boxes; who for miniſtring to the Common-wealth in ſuch a ſer<g ref="char:EOLhyphen"/>vice, ſhall have a conſiderable allowance out of the gaines. This I conceive (next to the ſhewing of the Monſtrous Lord with the five Members, in Faires and Markets) will moſt conduce to the ſwelling of the Publique Burſe: and it is very fit that you, that have undergone the burthen of affaires, ſhould have a ſhare out of all the Loſſes of the Kingdome.</p>
+            <pb n="5" facs="tcp:125943:3"/>
+            <p n="4">4. That there be no Maſquing, Mumming, Blind-man-buffe, Leading Hoodwink'd, or ſuch like Gambolls, during the Twelve dayes. Acted or performed in any place, but in either, or both houſes, or ſome of the Courts where the Com<g ref="char:EOLhyphen"/>mittees ſit, or laſtly (which is accounted the farre fitteſt place) in ſome of the City Halls, where there hath beene a conference betweene the Mem<g ref="char:EOLhyphen"/>bers, and the Aldermen: It being a great uſurpa<g ref="char:EOLhyphen"/>tion upon the priviledges of this Parliament, that any one (without your leaves) ſhould lye hid in any dreſſe or diſguiſe, ſo as to ſee all the reſt, and not be ſeene himſelfe of them.</p>
+            <p n="5">5. That being your ſage Counſels have thought fit to vote downe Stage-Players roote and branch, but many even of the well-affected to that Refor<g ref="char:EOLhyphen"/>mation have found, and hope hereafter to find, Play-houſes moſt convenient, and happy places of meeting: and that now in this Bag-pipe Min<g ref="char:EOLhyphen"/>ſtralſie weeke (I meane, this red packe of leaſure dayes that is comming) there muſt be ſome Enter<g ref="char:EOLhyphen"/>ludes whether you will or no: You would be plea<g ref="char:EOLhyphen"/>ſed to declare your ſelves, that you never meant to take away the calling of Stage-playes, but reforme the abuſe of it; that is, that they bring no prophane <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but take them out of the Scripture all (as that of <hi>Joſeph</hi> and his brethren would make the Ladies weepe: that of <hi>David</hi> and his Troubles would do pretty well for this preſent: and doubtleſſe <hi>Sulanna</hi> and the two Elders would be a <hi>Scene</hi> that would take above any that was ever yet preſented) It
+<pb n="6" facs="tcp:125943:4"/>would not be amiſſe too, if inſtead of the Muſicke that playes betweene Acts, there were onely a Pſalme ſung for diſtinction ſake. This might be eaſily brought to paſſe, if either the Court Play-writers be commanded to read the Scripture, or the City-Scripture-Readers be commanded to write Playes. This as it would much advantage our Part, ſo it would much diſadvantage the King's: for as by it wee ſhould gaine a new place of Edify<g ref="char:EOLhyphen"/>ing, ſo Captaine <hi>Trig,</hi> and the reſt of the Players which are now in ſervice, would doubtleſſely re<g ref="char:EOLhyphen"/>turne to their callings, and much leſſen the Kings Army.</p>
+            <p n="6">6. That inſtead of <hi>Carols,</hi> which Farmers ſonnes, and ſervants ſing on Chriſts Birth-day before they may eate or drinke, you take order, that by ſome of your beſt City-Poets (who will write certainly to their capacity) there be ſome ſongs made of the great deeds that his <hi>Excellencie</hi> did at <hi>Worceſter,</hi> and <hi>Edge-hill,</hi> in which 'twould do admirably well, if there were inſerted a mention of that honorary ſumme of five thouſand pounds which you preſen<g ref="char:EOLhyphen"/>ted him with after his Triumph through Kingſ<g ref="char:EOLhyphen"/>ſtreet; that ſo, if Poſterity ſhould chance to queſti<g ref="char:EOLhyphen"/>on (as all certainties, you know, may be more then queſtioned) whether he got the victory or no, they may be compell'd to this Dilemma, either to ac<g ref="char:EOLhyphen"/>knowledge His Nobleneſſe that would receive ſo little for conquering, or your Liberality that would give him ſo much for being beaten.</p>
+            <p n="7">7. Being Nativity-Pies muſt be eaten with
+<pb n="7" facs="tcp:125943:4"/>Spoones, and at the good time the good old people bring out Plate older then themſelves, among which there are moſt commonly the Twelve Apo<g ref="char:EOLhyphen"/>ſtles, that is, a dozen of Sainted ſpoones, ſo that their very inſtruments of eating are ſo many Idols, it is more then wiſh't you would take away thoſe Apoſtles, as being now ſcandalous ſuperflui<g ref="char:EOLhyphen"/>ties: and that your owne heads (as you can beſt a<g ref="char:EOLhyphen"/>gree among your ſelves) were fixt upon them: which next to that I mention'd of the Cards, would be a pretty kind of Statue to keepe up your glories.</p>
+            <p n="8">8. Being your Papers (which a while very hand<g ref="char:EOLhyphen"/>ſomely thruſt out Epiſtles and Goſpels in many places) are not now read in Churches, and that they begin not to be prevalent, but with the igno<g ref="char:EOLhyphen"/>rant of your owne party, and ſome few of the Kings ſervants, which are payd by you, as well as by Him, and therefore may be called Double-Pentioners: That (it being now a time when much fruit and ſpice is to be vented) you would ſend all your Declarations, Meſſages, Anſwers, Replyes, and ſuch like weekly productions, to the Grocers, with a command, that they make up their fruits, and ſpaces in no other paper but them, which Art will diſperſe them, not into every ſhire, but into every houſe; ſo that no neceſſary buſineſſe, that requires paper, would be done without them.</p>
+            <p n="9">9. And laſtly, That as the Revenewes of Bi<g ref="char:EOLhyphen"/>ſhops, and Cathedrals, and many Lay-Land-Lords are already ſet apart for publique diſpoſall, ſo you would opportunely adviſe of a way to ſequeſter all
+<pb n="8" facs="tcp:125943:5"/>New-yeares-guifts (as Capons, Turkies, Hennes, Geeſe, and ſuch things as will live) for the uſe of the King and Parliament, and command them to be immediately after the Day brought up to <hi>London,</hi> and withall, that for their better ſafety, your owne High Sheriffes (which wee heare you are now pric<g ref="char:EOLhyphen"/>king) may raiſe a <hi>poſſe Comitatûs</hi> to conduct them in Droves from Shire to Shire. This I conceive will reliſh well with the ordinary ſort of Citizens, who begin already to be nice Stomack'd, and ſhortly will be able to get downe nothing but what falls from Heaven.</p>
+            <p>Theſe grand Conſiderations I thought fit to preſent to you, becauſe you have now carry<g ref="char:EOLhyphen"/>ed up things to that height, that the people ex<g ref="char:EOLhyphen"/>pect nothing little from you. They are but few in number, but your wiſedome is great, and it is eaſie to adde to another mans Invention.</p>
+            <p>And thus I have diſcharged my duty to you, without which I ſhould not have thought I had cloſed the Yeare as a Subject, and a true Mem<g ref="char:EOLhyphen"/>ber of the Common-wealth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
